@@ -1,0 +1,11 @@
+{
+    "name": "zelenin/php-toolkit",
+    "description": "Toolkit for comfortable programming",
+    "authors": [
+        {
+            "name": "Alexandr Zelenin",
+            "email": "zeleniy.spb@gmail.com"
+        }
+    ],
+    "require": {}
+}
